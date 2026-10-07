@@ -1,9 +1,5 @@
 .app {
-    background: url('./assets/unitygrid.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
+    background: linear-gradient(to bottom, #e8edf0 0%, #c5d5dc 50%, #8fa8b5 100%);
 }
 
 header {
